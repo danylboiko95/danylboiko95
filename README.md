@@ -1,6 +1,6 @@
 # Hi there, my name is Danyl. I'm a TechLead software developer 👋
 
-### Here is my social media accouns
+### Here is my social media accounts
 [💻 Linkedin](https://www.linkedin.com/in/vizboyko/)
 
 [👽 Website](https://www.danylboiko.dev/)
@@ -53,8 +53,20 @@ My journey is a never-ending quest for knowledge. With every experience, every c
 
 
 ## 🤔 Facts
-👥 Actively mentoring a diverse group of junior specialists.
+👨‍💻 Experience: With 6 years under my belt, I'm an experienced software engineer in the IT industry.
 
-📚 Exploring the intricacies of high-loaded architecture through dedicated courses.
+🖌️ Diverse Background: I began my journey in 3D graphics using tools like 3ds MAX and Unreal Engine, even dabbling in C++ basics.
 
-🌍 Contributing my expertise to meaningful social projects.
+🔍 Passion Discovery: After 2 years in 3D, I uncovered a passion for creating products, propelling me into the world of programming.
+
+🔗 Blockchain Journey: I led a product from idea to production, navigating the intricacies of blockchain technologies.
+
+🚀 WebAssembly Mastery: I'm adept at crafting high-performance WebAssembly JS charts with 2D/3D WebGL, creating captivating visual experiences.
+
+🎯 Customer-Centric Approach: I managed customer requests and enhancements as my development team's contact point, ensuring smooth support.
+
+👨‍🏫 Mentorship: I mentored 50+ junior engineers, volunteering to teach them programming basics.
+
+🚀 Leveling Up: I also mentored a mid-level developer, guiding them to achieve the Senior level.
+
+📚 Learning Never Stops: Ever eager to improve, I'm diving into DevOps and high-loaded architecture.
