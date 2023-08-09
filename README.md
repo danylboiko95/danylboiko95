@@ -1,8 +1,16 @@
-### Hi there 👋
+# Hi there, I am Danyl 👋
+![GitHub followers](https://img.shields.io/github/followers/danylboiko95?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/danylboiko95?style=social)
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=danylboiko95&show_icons=true)
+
+
+### 📮 Get In Touch!
+* 📗 [My linkedin](https://www.linkedin.com/in/vizboyko/)
+* 📕 [My web-site](https://www.danylboiko.dev/)
+
 
 <!--
-**danylboiko95/danylboiko95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
