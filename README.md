@@ -1,10 +1,12 @@
-# Hi there, I am Danyl 👋
+# Hi there, my name is Danyl. I'm a TechLead software developer 👋
 
-### 📮 Get In Touch!
-[My linkedin](https://www.linkedin.com/in/vizboyko/)
-[My website](https://www.danylboiko.dev/)
+### Here is my social media accouns
+[💻 Linkedin](https://www.linkedin.com/in/vizboyko/)
 
-Hi, welcome to my Github pages.
+[👽 Website](https://www.danylboiko.dev/)
+
+[😎 Instagram](https://www.instagram.com/danyl_boiko/)
+
 
 ## Things Related to My Projects
 
@@ -12,12 +14,10 @@ Hi, welcome to my Github pages.
 [![TypeScript](https://img.shields.io/badge/TypeScript-Prefer%20It%20Over%20JavaScript-%2384FFFF?logo=typescript&style=flat-square)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-Framework%20for%20Everything-%237840A6?logo=.net&style=flat-square)](https://dotnet.microsoft.com/)
 [![Bash](https://img.shields.io/badge/Bash-At%20My%20Fingertips-%23EEEEEE?logo=gnu&style=flat-square)](https://www.gnu.org/software/bash/)
-
 [![Next.js](https://img.shields.io/badge/Next.js-Power%20Your%20Reacts-%23000000?logo=next.js&style=flat-square)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-Declarative%20UIs-%2361DAFB?logo=react&style=flat-square)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-For%20the%20Backend-%23339933?logo=node.js&style=flat-square)](https://nodejs.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy%20with%20Ease-%23000000?logo=vercel&style=flat-square)](https://vercel.com/)
-
 [![Webpack](https://img.shields.io/badge/Webpack-Make%20JavaScript%20Program%20Which%20Can%20Be%20Run%20on%20Web%20Browsers-%231976D2?logo=webpack&style=flat-square)](https://webpack.js.org/)
 [![Express](https://img.shields.io/badge/Express-One%20of%20the%20Best%20JavaScript%20Web%20Frameworks%20but%20Old-%23F9FBE7?logo=express&style=flat-square)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS%20+%20Fastify-A%20Web%20Framework%20for%20Large--Scale%20Projects-%23EF5350?logo=nestjs&style=flat-square)](https://nestjs.com/)
@@ -37,18 +37,24 @@ Hi, welcome to my Github pages.
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Document--Oriented%20Database-%2300E676?logo=mongodb&style=flat-square)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-In--Memory%20Data%20Store-%23D50000?logo=redis&style=flat-square)](https://redis.io/)
 
-- 🔭 I’m currently working as a Tech lead in [Recorded Future](https://www.recordedfuture.com/)
+## 🚀 Experience
+
+🇸🇪 **Sep 2022 - Tech-Leader React Developer**
+At RecordedFuture, Sweden
+
+**My Area of Responsibility:**
+- Project evaluation and enhancement of existing functionality.
+- Spearheading the transition from monorepository to microfrontends.
+- Onboarding new developers, ensuring seamless integration into the team.
+- Pioneering architectural solutions to complex challenges.
+- Conducting comprehensive technical interviews and engineering assessments.
+
+My journey is a never-ending quest for knowledge. With every experience, every challenge, I'm crafting a story of innovation, growth, and impact.
 
 
-<!--
-Here are some ideas to get you started:
+## 🤔 Facts
+👥 Actively mentoring a diverse group of junior specialists.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Exploring the intricacies of high-loaded architecture through dedicated courses.
+
+🌍 Contributing my expertise to meaningful social projects.
