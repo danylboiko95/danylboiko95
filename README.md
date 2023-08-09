@@ -1,8 +1,8 @@
 # Hi there, I am Danyl 👋
 
 ### 📮 Get In Touch!
-* 📗 [My linkedin](https://www.linkedin.com/in/vizboyko/)
-* 📕 [My web-site](https://www.danylboiko.dev/)
+📗 [My linkedin](https://www.linkedin.com/in/vizboyko/)
+📕 [My web-site](https://www.danylboiko.dev/)
 
 
 <!--
