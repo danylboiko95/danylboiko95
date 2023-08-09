@@ -1,9 +1,4 @@
 # Hi there, I am Danyl 👋
-![GitHub followers](https://img.shields.io/github/followers/danylboiko95?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/danylboiko95?style=social)
-### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=danylboiko95&show_icons=true)
-
 
 ### 📮 Get In Touch!
 * 📗 [My linkedin](https://www.linkedin.com/in/vizboyko/)
