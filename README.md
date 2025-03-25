@@ -5,8 +5,6 @@
 
 [👽 Website](https://www.danylboiko.dev/)
 
-[😎 Instagram](https://www.instagram.com/danyl.boiko/)
-
 
 ## Things Related to My Projects
 
